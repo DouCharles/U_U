@@ -33,24 +33,24 @@
 ![](/Demo_Picture/Escaping_Room.png)
 
 
->共創模式 : 共創者可於此空間內創作密室
+>共創模式 : 共創者可於此空間內創作密室<br>
 ![](/Demo_Picture/Co_Create.png)
 
 
->雷達分析圖 : 幫助高中生了解自己適合的科系
+>雷達分析圖 : 幫助高中生了解自己適合的科系<br>
 ![](/Demo_Picture/Radar.png)
 
 
->討論區 : 玩家交流、分享心得
+>討論區 : 玩家交流、分享心得<br>
 ![](/Demo_Picture/Discussion_Board.png)
 
 
->MBTI分析 : 傳統心理測驗，可幫玩家篩選出適合開始體驗的科系
+>MBTI分析 : 傳統心理測驗，可幫玩家篩選出適合開始體驗的科系<br>
 ![](/Demo_Picture/Traditional_Psychometric_Test.png)
 
 
->證書 : 遊玩體驗證明，玩家可用於備審資料
+>證書 : 遊玩體驗證明，玩家可用於備審資料<br>
 ![](/Demo_Picture/Certificate.png)
 
->證書驗證 : 大學端輸入證書編號，可認證玩家的證書是否是真的
+>證書驗證 : 大學端輸入證書編號，可認證玩家的證書是否是真的<br>
 ![](/Demo_Picture/Certificate_Checking.png)
